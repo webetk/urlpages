@@ -1,6 +1,4 @@
-# URL Pages
-
-[shaoeny.github.io/urlpages](http://shaoeny.github.io/urlpages)
+# URLPAGES
 
 ## About
 
